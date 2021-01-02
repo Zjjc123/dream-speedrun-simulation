@@ -1,16 +1,24 @@
 # Dream Speedrun Simulation
-
 A Python Simulation to visualize and compare Dream's luck with generated runs.
 
 ## Drop Rates
-
-Blaze Rods: ```50%```
-
 Pearls: ```5%```
 
-## Simulation
+## Simulation Results
 ### Dream's run compared to 1,000 randomly generated runs
-![1000](/imgs/fig1.png)
+![](/imgs/runs.png)
 
 ### Dream's run compared to the best of 1,000,000 randomly generated runs
-![1000](/imgs/fig2.png)
+![](/imgs/best_run.png)
+
+### Dream's run compared to the quantile of 1,000 randomly generated runs
+![](/imgs/quantiles.png)
+
+### Probability distribution of tweaked Ender Pearl drop rate
+![](/imgs/drop_probability.png)
+
+### Most likely tweaked Ender Pearl drop rate
+![](/imgs/most_likely_drop.png)
+
+# Credits
+Thanks to the amazing astrophysicist Christine (@christine8888) for the big brained math parts
