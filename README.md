@@ -2,16 +2,16 @@
 A Python Simulation to visualize and compare Dream's luck with generated runs.
 
 ## Drop Rates
-Pearls: ```5%```
+Ender Pearls: ```5%```
 
 ## Simulation Results
-### Dream's run compared to 1,000 randomly generated runs
+### Dream's 6-stream run barter luck compared to 1,000 randomly generated runs
 ![](/imgs/runs.png)
 
-### Dream's run compared to the best of 1,000,000 randomly generated runs
+### Dream's 6-stream run barter luck compared to the best of 1,000,000 randomly generated runs
 ![](/imgs/best_run.png)
 
-### Dream's run compared to the 1, 2, and 3 sigma (containing 68%, 95%, 99.7%) quantiles of 100,000 randomly generated runs
+### Dream's 6-stream run barter luck compared to the 1, 2, and 3 sigma (containing 68%, 95%, 99.7%) quantiles of 100,000 randomly generated runs
 ![](/imgs/quantiles.png)
 
 ### Probability distribution of tweaked Ender Pearl drop rate
